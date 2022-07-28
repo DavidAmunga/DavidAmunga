@@ -1,6 +1,6 @@
 ### Hi there I'm David 👋
 
-Currently building cool stuff at [Identigate](https://identigate.co.ke) 
+Currently building neat solutions Businesses converse with their Customers at [Echo Mobile](https://echomobile.io) 
 
 For more information about me check out here [davidamunga.com](https://davidamunga.com)
 
