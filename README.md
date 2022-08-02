@@ -1,6 +1,6 @@
 ### Hi there I'm David 👋
 
-Currently building neat solutions Businesses converse with their Customers at [Echo Mobile](https://echomobile.io) 
+Currently building neat Audience Engagement Interfaces at [Echo Mobile](https://echomobile.io) 
 
 For more information about me check out here [davidamunga.com](https://davidamunga.com)
 
