@@ -1,6 +1,6 @@
 ### Hi there I'm David 👋
 
-Currently building neat Audience Engagement Interfaces at [Echo Mobile](https://echomobile.io) 
+Software Engineer building necessary stuff in the internet. Previously building frontend at [Echo Mobile](https://echomobile.io) 
 
 For more information about me check out here [davidamunga.com](https://davidamunga.com)
 
