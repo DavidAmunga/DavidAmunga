@@ -1,6 +1,6 @@
 ### Hi there I'm David 👋
 
-Software Engineer building necessary stuff in the internet. Previously building frontend at [Echo Mobile](https://echomobile.io) 
+Software Engineer building necessary stuff in the internet. Previously built frontend at [Echo Mobile](https://echomobile.io). Available for fulltime/contract roles
 
 For more information about me check out here [davidamunga.com](https://davidamunga.com)
 
