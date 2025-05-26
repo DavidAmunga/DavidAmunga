@@ -1,6 +1,6 @@
 ### Hi there I'm David 👋
 
-Software Engineer building necessary stuff in the internet. Previously built frontend at [Echo Mobile](https://echomobile.io). Available for fulltime/contract roles
+Software Engineer building necessary stuff in the internet. Previously built frontend at [Patrium Health](https://patriumhealth.com). Currently building at [PGLS](https://pgls.com/)
 
 For more information about me check out here [davidamunga.com](https://davidamunga.com)
 
