@@ -1,6 +1,6 @@
 ### Hi there I'm David 👋
 
-Software Engineer building necessary stuff in the internet. Previously built frontend at [Patrium Health](https://patriumhealth.com). Currently building at [PGLS](https://pgls.com/)
+Software Engineer building necessary stuff in the internet. Previously built frontend at [Patrium Health](https://patriumhealth.com). Currently building at [Piedmont Global](https://piedmontglobal.com/)
 
 For more information about me check out here [davidamunga.com](https://davidamunga.com)
 
